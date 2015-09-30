@@ -12,3 +12,7 @@ Enter the IMDb ID of a series and the number of the last season you want to get 
 The script will produce a text file named: `scraped-episodes.txt`
 
 Then, use this text file as input to the pywikibot script and let it auto-create all pages.
+
+## IMDb-to-MyMDb-bookmarklet
+
+This is javascript bookmarklet that allows the quick adding of a movie while browsing it in IMDb.
