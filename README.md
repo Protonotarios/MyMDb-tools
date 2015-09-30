@@ -1,11 +1,12 @@
-# MyMDb-series-scraper
+# MyMDb-tools
+**MyMDb tools** is a small collection of scripts for use with the [MyMDb](http://prot.gr/mymdb) wiki ontology by Ioannis Protonotarios.
+
+## MyMDb-series-scraper
 MyMDb episode scraper from IMDb series pages
 
-This a python script for use with the [MyMDb](http://prot.gr/mymdb) wiki ontology by Ioannis Protonotarios. 
+This is a python script that paired with [pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot) allows the bulk creation of all episode pages of a series.
 
-This script paired with [pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot) allows the bulk creation of all episode pages of a series.
-
-## Usage
+### Usage
 Enter the IMDb ID of a series and the number of the last season you want to get episodes up to (usually the final season).
 
 The script will produce a text file named: `scraped-episodes.txt`
