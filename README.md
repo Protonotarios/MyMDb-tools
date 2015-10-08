@@ -17,4 +17,8 @@ Then, use this text file as input to the pywikibot script and let it auto-create
 
 ## IMDb-to-MyMDb-bookmarklet
 
-This is a javascript bookmarklet that allows the quick adding of a movie while browsing it on IMDb.
+This is a javascript bookmarklet that allows the quick adding of a movie while browsing it on IMDb. When pressed on an IMDb page, it redirects to a MyMDb new page form with name same as the movie. User may enter more details and save the page.
+
+## IMDb-to-MyMDb-API-bookmarklet
+
+Same idea as above, only this time page is saved at once (no form) via API.
