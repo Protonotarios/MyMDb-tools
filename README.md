@@ -4,7 +4,7 @@
 ## MyMDb-series-scraper
 MyMDb episode scraper from IMDb series pages
 
-This is a python script that paired with [pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot) allows the bulk creation of all episode pages of a series.
+This is a python 2.7 script that paired with [pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot) allows the bulk creation of all episode pages of a series.
 
 ### Usage
 Enter the IMDb ID of a series and the number of the last season you want to get episodes up to (usually the final season).
